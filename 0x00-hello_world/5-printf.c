@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - A demo file for printf function call
- * return: 0 (success)
+ * Description: 'the program's description'
+ * return: Always 0 (success)
  */
 int main(void)
 {
