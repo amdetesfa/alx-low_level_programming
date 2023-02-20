@@ -4,7 +4,7 @@
 /**
  * main - entry point
  * Description: Write a program that prints all possible different combination
- * Returne: Always 0
+ * Return: Always 0
  */
 
 int main(void)
